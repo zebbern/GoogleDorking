@@ -4,6 +4,8 @@ Google Dorking is an effective method for using advanced search commands to loca
 
 ## Basic Commands
 
+In Google.com search type these commands and replace examplesite.com with your own or switch out the information to what you are looking for.
+
 | **Command** | **Explanation** |
 | --- | --- |
 | `site:examplesite.com` | Shows all pages indexed from the website. Useful to view all content on a domain. |
