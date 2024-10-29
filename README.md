@@ -6,7 +6,7 @@ This Dorking Guide Shows you a short intruduction to
 
 - Basic Commands
 - Advanced Commands
-- Then For Pentesters i added a juicy section!
+- Then For Pentesters i added a juicy section on the bottom!
 
 ## Basic Commands
 
