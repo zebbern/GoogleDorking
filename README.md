@@ -2,6 +2,12 @@
 
 Google Dorking is an effective method for using advanced search commands to locate specific files, information, or vulnerabilities on websites. It enables precise searches with specific operators. Below is a complete list of commands, organized from basic to advanced, to help you understand how to use Google Dorking.
 
+This Dorking Guide Shows you a short intruduction to
+
+- Basic Commands
+- Advanced Commands
+- Then For Pentesters i added a juicy section!
+
 ## Basic Commands
 
 In Google.com search type these commands and replace examplesite.com with your own or switch out the information to what you are looking for.
