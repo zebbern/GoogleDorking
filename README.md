@@ -97,3 +97,11 @@ In Google.com search type these commands and replace examplesite.com with your o
    - **Adobe Experience Manager (AEM)**: `inurl:/content/usergenerated | inurl:/content/dam | inurl:/jcr:content | inurl:/libs/granite | inurl:/etc/clientlibs | inurl:/content/geometrixx | inurl:/bin/wcm | inurl:/crx/de site:example.com`
 
 </aside>
+
+
+## Contributions
+If you’d like to contribute, feel free to fork this repository and add any tools or resources that enhance the guide. Contributions to specific examples or additional resources will help this collection grow and stay up-to-date with the latest in cybersecurity.
+
+Thank you for exploring the **GoogleDorking**. Together, we’re building a one-stop resource for digital security mastery. 
+
+Happy hacking! 👾
