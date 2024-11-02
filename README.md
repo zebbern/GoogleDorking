@@ -104,4 +104,5 @@ If you’d like to contribute, feel free to fork this repository and add any too
 
 Thank you for exploring the **GoogleDorking**. Together, we’re building a one-stop resource for digital security mastery. 
 
-Happy hacking! 👾
+Lastly Consider to star this if you liked it ;)
+Happy hacking! 👾 
